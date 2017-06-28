@@ -2,7 +2,6 @@
 ![license](http://img.shields.io/badge/license-GPLv3+-brightgreen.svg)
 ![platform](http://img.shields.io/badge/platform-Android-blue.svg)
 
-[<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=de.tobiasbielefeld.solitaire) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/app/de.tobiasbielefeld.solitaire)
 
 #### Now contains 14 different Solitaire games!
 AcesUp, Canfield, Forty&Eight, FreeCell, Golf, GrandfathersClock, Gypsy, Klondike, Mod3, Pyramid, SimpleSimon, Spider, Tripeaks and Yukon!
@@ -58,25 +57,6 @@ And state the changes you made! For example: "Modified to add Google Play Games 
 
 Also think of the other aspects of the GPL license!
 
-## To-Do List
-
-- [X] Add more games (frecell, spider and yukon)
-- [X] Improve the settings to use fragments
-- [X] Add even more games (Simple Simon, Golf, etc)
-- [ ] Add the card themes from Kpatience, if their license is compatible to mine.
-- [X] Add a color chooser for background color
-- [X] Improve the Highscores to a Statistics Activity (including date stamps)
-- [ ] Find the reason why the game activity gets created two times when changing the screen orientation in game
-- [ ] Add a button to mix the cards if no movement can be done
-- [X] Add 'Grandfathers Clock'
-- [ ] Add a Custom game maker, maybe
-- [X] Add a 'poker standard' card theme and 4 color themes
-- [X] Add a option to Yukon to play on same suits, instead of different color (like Russian Solitaire)
-- [X] Also save high scores when canceling a game
-- [ ] Add an option to set up appearance for each game indivially
-- [X] Implement "Tap to select/move cards"
-- [ ] Add custom images for backgrounds
-
 ## Translations
 Thanks to the following persons for providing translations :D
 - Esperanto and Polish: verdulo
@@ -114,6 +94,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-If you want to contact me, send me an e-mail at tobias.bielefeld@gmail.com
-```
